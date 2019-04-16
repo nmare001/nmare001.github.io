@@ -17,12 +17,14 @@ h3 {
 	font-size: 40px;
 }
 
-
+h2,h3 {
+	float: right;
+}
 
 h1 {
   color: lightgray;
   font-weight: 600;
   font-family: "monospace", FreeMono;
-  display: inline-block;
+  display: inline;
 }
 
