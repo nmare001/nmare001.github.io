@@ -23,6 +23,6 @@ h1, h2, h3 {
   color: lightgray;
   font-weight: 600;
   font-family: "monospace", FreeMono;
-  /*display: inline;*/
+  display: inline-block;
 }
 
