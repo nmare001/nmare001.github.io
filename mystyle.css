@@ -15,6 +15,7 @@ h2 {
 h3 {
 	font-size: 40px;
 }
+
 h1, h2, h3 {
   color: lightgray;
   font-weight: 600;
@@ -22,6 +23,6 @@ h1, h2, h3 {
   display: inline;
 }
 
-h2,h3 {
+h2, h3 {
 	text-align: right;
 }
