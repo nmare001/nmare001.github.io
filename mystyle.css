@@ -1,12 +1,13 @@
 body {
-  background-color: white;
+  /*background-color: white;*/
 }
 
 p {
-	background-color: lightblue;
+	/*background-color: white;*/
 }
 
 h1 {
-  color: navy;
+  color: black;
+  font-family: American Typewriter, serif;
   margin-left: 20px;
 }
