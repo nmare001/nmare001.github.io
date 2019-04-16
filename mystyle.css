@@ -11,10 +11,13 @@ h1 {
 }
 h2 {
 	font-size: 40px;
+	text-align: right;
 }
 h3 {
 	font-size: 40px;
 }
+
+
 
 h1, h2, h3 {
   color: lightgray;
@@ -23,6 +26,3 @@ h1, h2, h3 {
   display: inline;
 }
 
-h2, h3 {
-	text-align: right;
-}
