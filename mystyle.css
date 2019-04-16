@@ -8,6 +8,6 @@ p {
 
 h1 {
   color: black;
-  font-family: Impact, fantasy;
+  font-family: "fantasy", Impact;
   margin-left: 20px;
 }
