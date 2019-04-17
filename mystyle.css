@@ -66,6 +66,7 @@ hr {
 .container {
   position: relative;
   text-align: center;
+  height: 50%;
   color: white;
 }
 
