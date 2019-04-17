@@ -7,8 +7,6 @@ body {
 .navbar {
   overflow: hidden;
   margin: 0;
-  padding-left: 0px;
-  margin: 1%;
   background-color: white;
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
