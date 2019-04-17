@@ -28,8 +28,8 @@
 
 /* Change background on mouse-over */
 .navbar a:hover {
-  background: #ddd;
-  color: black;
+  background: lightgray;
+  color: white;
 }
 
 /* Main content */
