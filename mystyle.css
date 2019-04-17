@@ -19,7 +19,7 @@ body {
   color: lightgray;
   font-family:"monospace", FreeMono;
   text-align: center;
-  padding: 14px 16px;
+  padding: 0px 16px;
   text-decoration: none;
 }
 
@@ -46,5 +46,12 @@ body {
 h1 {
 	color: darkgray;
 	font-family:"monospace", FreeMono;
+}
+
+line{
+width: 112px;
+height: 47px;
+border-bottom: 1px solid black;
+position: absolute;
 }
 
