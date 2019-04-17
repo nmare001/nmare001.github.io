@@ -46,7 +46,9 @@ body {
 }
 
 h1 {
-	color: darkgray;
+	color: black;
+	font-size: 18px;
+	text-align: center;
 	font-family:"monospace", FreeMono;
 }
 
