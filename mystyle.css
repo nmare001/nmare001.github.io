@@ -76,10 +76,10 @@ hr {
   font-family:"monospace", Courier New;
   font-weight: 700;
   font-size: 18px;
-  top: 40%;
+  top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 300px;
+  width: 340px;
   background-color: white;
 }
 
