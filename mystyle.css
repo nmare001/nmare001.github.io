@@ -17,14 +17,14 @@
   text-decoration: none;
 }
 
-.navbar a1 {
+/*.navbar a1 {
   float: left;
   display: block;
   color: lightgray;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-}
+} */
 
 /* Change background on mouse-over */
 .navbar a:hover {
