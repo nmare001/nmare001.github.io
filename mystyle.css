@@ -81,6 +81,9 @@ hr {
   transform: translate(-50%, -50%);
   width: 340px;
 }
+.forestSong {
+	display: inline;
+}
 
 .forest {
 	color: black;
