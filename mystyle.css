@@ -82,13 +82,12 @@ hr {
   width: 340px;
 }
 .forestSong {
-	float: left;
+	display: inline-block;
 }
 
 .forest {
 	color: black;
-	font-size: 11px;
-	text-align: left;
+	font-size: 14px;
 	font-family:"monospace", Courier New;
 }
 
