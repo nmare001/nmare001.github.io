@@ -82,11 +82,10 @@ hr {
   width: 340px;
 }
 
-.about {
+.forest {
 	color: black;
-	font-size: 18px;
-	text-align: center;
+	font-size: 11px;
+	text-align: left;
 	font-family:"monospace", Courier New;
-	transform: translate(-50%, -50%);
 }
 
