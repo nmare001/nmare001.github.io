@@ -48,7 +48,7 @@ body {
 
 h1 {
 	color: black;
-	font-size: 18px;
+	font-size: 36px;
 	text-align: center;
 	font-family:"monospace", Courier New;
 }
@@ -82,5 +82,10 @@ hr {
   width: 340px;
 }
 
-
+.about {
+	color: black;
+	font-size: 18px;
+	text-align: center;
+	font-family:"monospace", Courier New;
+}
 
