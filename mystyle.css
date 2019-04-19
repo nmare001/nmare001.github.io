@@ -82,19 +82,5 @@ hr {
   width: 340px;
 }
 
-.container2 {
-  position: relative;
-  text-align: center;
-  color: white;
-}
 
-.centered2 {
-  position: absolute;
-  font-family:"monospace", Courier New;
-  font-weight: 700;
-  font-size: 18px;
-  top: 40%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
 
