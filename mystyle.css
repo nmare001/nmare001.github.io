@@ -91,3 +91,10 @@ hr {
 	font-family:"monospace", Courier New;
 }
 
+.forestSong div {
+    display: inline-block;
+	width: 500px;
+	min-height: 50px;
+	background-color: #eee;
+	height: auto;
+  }
