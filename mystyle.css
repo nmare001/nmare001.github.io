@@ -73,7 +73,7 @@ hr {
 /* Centered text */
 .centered {
   position: absolute;
-  font-family:"monospace", FreeMono;
+  font-family:"monospace", Courier New;
   font-weight: 700;
   font-size: 18px;
   top: 50%;
@@ -93,7 +93,7 @@ hr {
   .songTxt {
 	color: black;
 	font-size: 16px;
-	font-family:"monospace", FreeMono;
+	font-family:"monospace", Courier New;
 	position: relative;
 	top: -20px;
 }
