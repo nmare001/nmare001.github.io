@@ -82,7 +82,7 @@ hr {
   width: 340px;
 }
 .forestSong {
-	display: inline-block;
+	float: left;
 }
 
 .forest {
