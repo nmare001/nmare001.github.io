@@ -87,5 +87,6 @@ hr {
 	font-size: 18px;
 	text-align: center;
 	font-family:"monospace", Courier New;
+	transform: translate(-50%, -50%);
 }
 
