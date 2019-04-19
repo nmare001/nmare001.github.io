@@ -89,6 +89,10 @@ hr {
     padding-bottom: 0px;
 }
 
+.controls {
+	padding-bottom:0px;
+}
+
   .forest {
 	color: black;
 	font-size: 14px;
