@@ -53,6 +53,12 @@ h1 {
 	font-family:"monospace", Courier New;
 }
 
+p {
+	font-family: "monospace", Courier New;
+    font-size: 18px;
+    text-align: center;
+}
+
 hr {
     display: block;
     height: 1px;
@@ -99,10 +105,10 @@ hr {
 }
 
 .explanation {
-	font-family:"monospace", Courier New;
-	font-size: 18px;
-	text-align: center;
-	padding-right: 300px;
-	padding-left: 300px;
+    max-width: 500px;
+    margin: 0 auto;
+}
 
+.explanation .inner {
+	margin: 0px 15px;
 }
