@@ -76,20 +76,25 @@ hr {
   text-align: center;
   color: white;
   margin-top: 45px;
-
+  height: calc(100vh - 45px);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
+.container .inner {
+	margin: 0px 15px;
+}
 
 /* Centered text */
 .centered {
-  position: absolute;
+  
   font-family:"monospace", Courier New;
   font-weight: 700;
   font-size: 18px;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  width: 340px;
+  max-width: 500px;
 }
 
 
