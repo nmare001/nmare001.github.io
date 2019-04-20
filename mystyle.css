@@ -140,3 +140,8 @@ hr {
 
 }
 
+.project .explanation {
+	text-align: left;
+	max-width: 650px;
+}
+
