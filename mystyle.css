@@ -13,6 +13,7 @@ body {
   top: 0; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
   z-index: 2;
+  height: 45px;
 }
 
 /* Links inside the navbar */
@@ -39,6 +40,7 @@ body {
 .navbar a:hover {
   background: lightgray;
   color: white;
+
 }
 
 /* Main content */
@@ -73,6 +75,8 @@ hr {
   position: relative;
   text-align: center;
   color: white;
+  margin-top: 45px;
+
 }
 
 
