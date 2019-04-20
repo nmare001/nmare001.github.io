@@ -82,6 +82,7 @@ hr {
   display: flex;
   justify-content: center;
   align-items: center;
+  background-position: center;
 }
 
 .container .inner {
@@ -100,8 +101,14 @@ hr {
 
 .forestSong div {
     display: inline-block;
-    padding-top: 0px;
-    padding-bottom: 0px;
+    margin-left: 19px;
+}
+
+.forestSong {
+    margin: 20px 0px;
+        display: flex;
+    align-items: center;
+    flex-wrap: wrap;
 }
 
 
@@ -110,7 +117,7 @@ hr {
 	font-size: 16px;
 	font-family:"monospace", Courier New;
 	position: relative;
-	top: -20px;
+	
 }
 
 .explanation {
@@ -121,3 +128,15 @@ hr {
 .explanation .inner {
 	margin: 0px 15px;
 }
+
+.audios {
+	max-width: 650px;
+	margin: 0 auto;
+
+}
+
+.audios .inner {
+	margin: 0px 15px;
+
+}
+
