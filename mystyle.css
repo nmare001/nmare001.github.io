@@ -52,11 +52,11 @@ h1 {
 	color: black;
 	font-size: 36px;
 	text-align: center;
-	font-family:"monospace", Courier New;
+	font-family:"monospace", FreeMono;
 }
 
 p {
-	font-family: "monospace", Courier New;
+	   font-family:"monospace", FreeMono;
     font-size: 18px;
     text-align: center;
 }
